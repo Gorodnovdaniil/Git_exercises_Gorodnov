@@ -1,3 +1,3 @@
 # Git_exercises_Gorodnov
-hello
+goodbye
 hi
